@@ -6489,11 +6489,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ggsmo\\source\\repos\\DatabaseEmployeesAPI\\DatabaseEmployeesAPI\\DatabaseEmployeesAPI.csproj",
+      "projectUniqueName": "C:\\Users\\ggsmo\\workspace\\csharp\\DatabaseEmployeesAPI\\DatabaseEmployeesAPI\\DatabaseEmployeesAPI.csproj",
       "projectName": "DatabaseEmployeesAPI",
-      "projectPath": "C:\\Users\\ggsmo\\source\\repos\\DatabaseEmployeesAPI\\DatabaseEmployeesAPI\\DatabaseEmployeesAPI.csproj",
+      "projectPath": "C:\\Users\\ggsmo\\workspace\\csharp\\DatabaseEmployeesAPI\\DatabaseEmployeesAPI\\DatabaseEmployeesAPI.csproj",
       "packagesPath": "C:\\Users\\ggsmo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ggsmo\\source\\repos\\DatabaseEmployeesAPI\\DatabaseEmployeesAPI\\obj\\",
+      "outputPath": "C:\\Users\\ggsmo\\workspace\\csharp\\DatabaseEmployeesAPI\\DatabaseEmployeesAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ggsmo\\AppData\\Roaming\\NuGet\\NuGet.Config",

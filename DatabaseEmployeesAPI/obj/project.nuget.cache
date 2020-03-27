@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mm1UwrXsxqcko6C8ztTUd5rSErm7sz9EzQgj0pDoTCmzbDXFQpccEFD/YEBxSGuQzdSY9nOUBg5q1kW3IGHXYw==",
+  "dgSpecHash": "/qLQQJASn3X2l2kJn5wJ4gQI58vBEb16dA+yAGx+GEkCGSRXgZn5RW6dajvAyKq8+8QidqtbbxQIrNIARkNLVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ggsmo\\source\\repos\\DatabaseEmployeesAPI\\DatabaseEmployeesAPI\\DatabaseEmployeesAPI.csproj",
+  "projectFilePath": "C:\\Users\\ggsmo\\workspace\\csharp\\DatabaseEmployeesAPI\\DatabaseEmployeesAPI\\DatabaseEmployeesAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ggsmo\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\ggsmo\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
